@@ -3,7 +3,7 @@ OpenCore EFI
 
 # System
 - 华擎 H510M/ITX-AC
-- Core i3-101105f
+- Core i3-10105f
 - GPU GTX760
 - RAM HyperX 8GBx2
 
