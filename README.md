@@ -2,9 +2,9 @@
 OpenCore EFI
 
 # System
-- Asrock H510M/ITX-AC
-- Core i3-10100
-- GPU RX560 (native supported)
+- 华擎 H510M/ITX-AC
+- Core i3-101105f
+- GPU GTX760
 - RAM HyperX 8GBx2
 
 # Working
@@ -15,6 +15,8 @@ OpenCore EFI
 # Non working
 - GUI boot chime (not important)
 - Chime sound (not important)
+- camera
+- 隔空传送
 ...
  
 # OpenCore 0.68
